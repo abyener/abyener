@@ -13,6 +13,6 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-![snake gif](https://github.com/abyener/abyener/blob/output/github-contribution-grid-snake.gif) 
+<!--  ![snake gif](https://github.com/abyener/abyener/blob/output/github-contribution-grid-snake.gif) -->
 
 
